@@ -1,0 +1,13 @@
+-> GPS com posicionamento relativo;
+
+-> tipos de gps:
+
+		tipos		método			precisão	
+	-> navegação  |  absoluto   | maior que 10m
+	-> métrico	  |  relativo	| entre 1m e 10m
+	-> submétrico |	 relativo	| entre 0,1m e 1,0m
+	-> geodésico  |  relativo	| entre 0,1m e 0,001m
+	
+-> Nos vamos fazer Mapa temático
+
+-> Informação de altitute no mapa representado por cor: marrom->vermelho->amarelo->verde  = de alto até baixo;
