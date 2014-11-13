@@ -1,3 +1,6 @@
+﻿-> Sistema Universal Transversal de Mercator(UTM):
+	-> Coordenadas métricas planas ou plano retangulares;
+
 -> GPS com posicionamento relativo;
 
 -> tipos de gps:
@@ -11,3 +14,18 @@
 -> Nos vamos fazer Mapa temático
 
 -> Informação de altitute no mapa representado por cor: marrom->vermelho->amarelo->verde  = de alto até baixo;
+
+-> Mapas jaraguá:
+http://www.jaraguadosul.sc.gov.br/downloads.php?cat=1162
+
+-> Edson Fumio Kuwakino
+indicado por Kather, é o cara que manja de geoprocessamento.
+
+-> Blog com infos:
+http://andersonmedeiros.com/ 
+
+-> Open Street Map:
+http://www.openstreetmap.org/
+
+-> QGis (open source gis)
+http://www.qgis.org/en/site/
