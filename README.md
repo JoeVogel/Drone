@@ -2,28 +2,28 @@
 
 ### Resumo do Projeto:
 
-Há cerca de uma década o uso de Veiculo Aéreo Não Tripulado (VANT) era limitado a esfera militar. Porém, com o avanço da tecnologia, cada vez mais civis estão trabalhando e realizando experimentos sobre essa tecnologia. Com esse avanço estão surgindo cada vez mais VANTs em pesquisas públicas, isso é uma grande oportunidade de descobrir e investigar novas possibilidades em termos de controle autônomo para esses veículos, para que assim se possa ir mais longe sem depender dos controles que muitas vezes limitam a distância de alcance. Em casos de desastres naturais como alagamentos, terremotos e até tsunamis, o rápido atendimento aos pontos mais críticos é a diferença entre salvar ou perder muitas vidas. Segundo Rémy, Senouci, Jan e Gourhant(2013, pg 1) “drones são uma boa solução, porque eles podem atravessar uma vasta área sem ter que tocar o chão, e portanto, podem ser usados para explorar os destroços após um terremoto”.<br>
-<br>
+Há cerca de uma década o uso de Veiculo Aéreo Não Tripulado (VANT) era limitado a esfera militar. Porém, com o avanço da tecnologia, cada vez mais civis estão trabalhando e realizando experimentos sobre essa tecnologia. Com esse avanço estão surgindo cada vez mais VANTs em pesquisas públicas, isso é uma grande oportunidade de descobrir e investigar novas possibilidades em termos de controle autônomo para esses veículos, para que assim se possa ir mais longe sem depender dos controles que muitas vezes limitam a distância de alcance. Em casos de desastres naturais como alagamentos, terremotos e até tsunamis, o rápido atendimento aos pontos mais críticos é a diferença entre salvar ou perder muitas vidas. Segundo Rémy, Senouci, Jan e Gourhant(2013, pg 1) “drones são uma boa solução, porque eles podem atravessar uma vasta área sem ter que tocar o chão, e portanto, podem ser usados para explorar os destroços após um terremoto”.</br>
+</br>
 Esse projeto propõe o uso de um VANT autônomo para agir em desastres, isso implica no desenvolvimento de um algoritmo que será responsável por controlar o VANT até o objetivo e que irá fazer o processamento das informações coletadas a fim de propor as melhores ações a serem tomadas.
 
 ### Problematização:
 
-Os noticiários vêm relatando um grande número de desastres naturais em vários locais do mundo. No Japão houve Tsunamis e o desastre nuclear de Fukushima (G1, 2011), em várias regiões do globo terrestre, anualmente ocorrem terremotos, enchentes e deslizamentos de terra. Isso sem falar nos desastres químicos, como capotamento de caminhões carregando produtos químicos nocivos.
-
+Os noticiários vêm relatando um grande número de desastres naturais em vários locais do mundo. No Japão houve Tsunamis e o desastre nuclear de Fukushima (G1, 2011), em várias regiões do globo terrestre, anualmente ocorrem terremotos, enchentes e deslizamentos de terra. Isso sem falar nos desastres químicos, como capotamento de caminhões carregando produtos químicos nocivos.<br>
+<br>
 Recentemente, o Brasil também foi alvo de grandes desastres, inclusive no estado de Santa Catarina, que sofreu com enchentes e deslizamentos de terra entre 2008 e 2014 (BAND, 2014), provocando a perda de muitas vidas de cidadãos e pondo em risco funcionários dos órgãos da Defesa Civil, Bombeiros, e até mesmo voluntários que se
-arriscaram para tentar conter uma catástrofe ainda maior.
-
-Atualmente, para tratar uma situação de risco, é necessário que a Defesa Civil envie funcionários ao local para averiguar a situação, coletando informações (anotações, fotos, identificação de itens específicos) que posteriormente serão analisadas com a finalidade de propor uma solução para a questão. Porém, este processo apresenta várias desvantagens, como risco no acesso ao local (em situações onde há vazamento de produtos químicos nocivos, ou áreas com perigo de desabamento), utilização de equipamentos de alto valor e até mesmo o tempo necessário para que haja todo o deslocamento ao local atingido.
-
+arriscaram para tentar conter uma catástrofe ainda maior.<br>
+<br>
+Atualmente, para tratar uma situação de risco, é necessário que a Defesa Civil envie funcionários ao local para averiguar a situação, coletando informações (anotações, fotos, identificação de itens específicos) que posteriormente serão analisadas com a finalidade de propor uma solução para a questão. Porém, este processo apresenta várias desvantagens, como risco no acesso ao local (em situações onde há vazamento de produtos químicos nocivos, ou áreas com perigo de desabamento), utilização de equipamentos de alto valor e até mesmo o tempo necessário para que haja todo o deslocamento ao local atingido.<br>
+<br>
 Como agir no tratamento de eventos decorrentes de desastres naturais e químicos aliando eficiência na utilização dos recursos disponíveis, agilidade e segurança objetivando a minimização do risco de morte das vítimas atingidas tanto quanto das pessoas envolvidas no processo de resgate?
 
 ### Justificativa
 
 As novas estatísticas mostram que em comparação há 40 anos, o dobro de pessoas foram afetadas por desastres naturais e a tendência é que isso piore à medida que mais pessoas se mudam para cidades populosas de países em desenvolvimento (G1, 2014).
-Um dia após o Natal de 2004, um terremoto submarino de magnitude 9,3, com epicentro na costa oeste da Sumatra, na Indonésia, resultou em um devastador tsunami que atingiu as costas de vários países do sul e do sudeste da Ásia. O abalo sísmico originado no Oceano Índico provocou o tsunami que matou um número estimado entre 225 mil e 230 mil pessoas (HYPESCIENCE, 2011).
-
-Os maiores especialistas portugueses em sismos avisam que Portugal pode sofrer, a qualquer momento, um terramoto e um tsunami semelhantes aos que vimos no Japão e que vai matar dezenas de milhar de pessoas porque o país não está preparado. A Sociedade Portuguesa de Engenharia Sísmica avisa que em Portugal nem sequer os hospitais estão preparados para um sismo.(TVI24, 2011) 
-
+Um dia após o Natal de 2004, um terremoto submarino de magnitude 9,3, com epicentro na costa oeste da Sumatra, na Indonésia, resultou em um devastador tsunami que atingiu as costas de vários países do sul e do sudeste da Ásia. O abalo sísmico originado no Oceano Índico provocou o tsunami que matou um número estimado entre 225 mil e 230 mil pessoas (HYPESCIENCE, 2011).<br>
+<br>
+Os maiores especialistas portugueses em sismos avisam que Portugal pode sofrer, a qualquer momento, um terramoto e um tsunami semelhantes aos que vimos no Japão e que vai matar dezenas de milhar de pessoas porque o país não está preparado. A Sociedade Portuguesa de Engenharia Sísmica avisa que em Portugal nem sequer os hospitais estão preparados para um sismo.(TVI24, 2011).<br>
+<br>
 Baseado neste cenário, uma investida eficiente no mapeamento de ambientes afetados por estes desastres pode ser a diferença entre salvar ou perder várias vidas. 
 A proposta desse projeto é desenvolver um veiculo aéreo não tripulado(VANT) que seja capaz de mapear os pontos mais afetados por alagamentos e deslizamentos a fim de auxiliar nas atividades de resgate, pois, com um mapeamento bem feito as chances de se ter vítimas fatais cai drasticamente.
 
@@ -33,16 +33,16 @@ Construir um Vant para exploração de ambientes afetados por desastres naturais
 
 ### Objetivos específicos: 
 
-•	Estudar a fundo os procedimentos realizados atualmente pelos órgãos responsáveis em casos de desastres naturais;
-
-•	Definir o procedimento que será executado pelo Vant;
-
-•	Estudar a fundo como funciona um Sistema de Informação Geográfica;
-
-•	Pesquisar e implantar o Sistema de Informação Geográfica;
-
-•	Construir o Vant;
-
+•	Estudar a fundo os procedimentos realizados atualmente pelos órgãos responsáveis em casos de desastres naturais;<br>
+<br>
+•	Definir o procedimento que será executado pelo Vant;<br>
+<br>
+•	Estudar a fundo como funciona um Sistema de Informação Geográfica;<br>
+<br>
+•	Pesquisar e implantar o Sistema de Informação Geográfica;<br>
+<br>
+•	Construir o Vant;<br>
+<br>
 •	Desenvolver o algoritmo responsável por controlar o Vant;
 
 •	Realizar todos os testes no Vant e no software de geoprocessamento;
