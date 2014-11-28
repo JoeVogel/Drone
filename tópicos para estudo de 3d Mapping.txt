@@ -6,5 +6,8 @@ UAV rapid 3D mapping
 
 -microDEM
 
-Explicação do que é o lidar(ladar) 
+Explicação do que é o lidar(ladar: laser radar) 
 http://en.wikipedia.org/wiki/Lidar
+
+laser radar
+http://www.nikonmetrology.com/Products/Large-Volume-Applications/Laser-Radar/MV330-MV350-Laser-Radar
