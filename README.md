@@ -109,6 +109,6 @@ TVI24. **Sismo vai matar dezenas de milhares em Portugal.** Disponível em:
 <http://www.tvi24.iol.pt/sociedade/videos/sismo-vai-matar-dezenas-de-milhar-em-portugal>. Data de acesso: 12 de novembro de 2014.<br>
 <br>
 <br>
-### Copyright (c) 2014 Fernando Gabriel Borgmann & Joe Jonas Vogel
+##### Copyright (c) 2014 Fernando Gabriel Borgmann & Joe Jonas Vogel
 
 
