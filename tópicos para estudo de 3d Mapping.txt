@@ -5,3 +5,6 @@ software: visual SFM
 UAV rapid 3D mapping
 
 -microDEM
+
+Explicação do que é o lidar(ladar) 
+http://en.wikipedia.org/wiki/Lidar
