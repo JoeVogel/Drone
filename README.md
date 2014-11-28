@@ -1,15 +1,16 @@
 ## VANT Explorador Autônomo para Buscas Avançadas e Missões de Resgate
-
-### Fernando Gabriel Borgmann(1)  
-### Joe Jonas Vogel(1)
-### Manfred Heil Júnior(2)
-### Maurício Henning(3)
-
-### Centro Universitário Católica de Santa Catarina - Campus Jaraguá do Sul
-
-### 1 - Acadêmico
-### 2 - Orientador
-### 3 - Coorientador
+<br>
+#### Fernando Gabriel Borgmann(1)  
+#### Joe Jonas Vogel(1)
+#### Manfred Heil Júnior(2)
+#### Maurício Henning(3)
+<br>
+#### Centro Universitário Católica de Santa Catarina - Campus Jaraguá do Sul
+<br>
+1 - Acadêmico
+2 - Orientador
+3 - Coorientador
+<br>
 
 ### Resumo do Projeto:
 
