@@ -99,20 +99,26 @@ Dentre as ferramentas utilizadas pelo geoprocessamento, temos o SIG (Sistema de 
 ### Referências:
 </br>
 BAND. **Chuva provoca enchentes em Santa Catarina.** Disponível em: <http://noticias.band.uol.com.br/cidades/noticia/?id=100000688023&t=>. Data de acesso: 10 de novembro de 2014.
-</br></br>
+</br>
+</br>
 G1. **Acidente nuclear de fukushima esta no nível 4 em escala até 7 diz Japão.** Disponível em:
 <http://g1.globo.com/tsunami-no-pacifico/noticia/2011/03/acidente-nuclear-de-fukushima-esta-no-nivel-4-em-escala-ate-7-diz-japao.html>. Data de acesso: 10 de novembro de 2014.
-</br></br>
+</br>
+</br>
 G1. **Desastres naturais desabrigam 22 milhões de pessoas em 2013.** Disponível em:
 <http://g1.globo.com/mundo/noticia/2014/09/desastres-naturais-desabrigaram-22-milhoes-de-pessoas-em-2013.html>. Data de acesso: 10 de novembro de 2014.
-</br></br>
+</br>
+</br>
 HYPESCIENCE. **Os 10 desastres naturais mais mortais da história.** Disponível em:
 <http://hypescience.com/os-10-desastres-naturais-mais-mortais-da-historia/>. Data de acesso: 11 de novembro de 2014.
-</br></br>
+</br>
+</br>
 MOURA, Ana C. M. **Geoprocessamento na Gestão e Planejamento Urbano.** 3.ed. Rio de janeiro: Interciência, 2014. 286 p.
-</br></br>
+</br>
+</br>
 R´EMY, Guillaume, SENOUCI, Sidi-Mohammed, JAN, François, et al. **SAR.Drones: Drones for Advanced Search and Rescue Missions.** 2013. Artigo científico. Lannion, University of Bourgogne – France.
-</br></br>
+</br>
+</br>
 TVI24. **Sismo vai matar dezenas de milhares em Portugal.** Disponível em:
 <http://www.tvi24.iol.pt/sociedade/videos/sismo-vai-matar-dezenas-de-milhar-em-portugal>. Data de acesso: 12 de novembro de 2014.
 </br>
